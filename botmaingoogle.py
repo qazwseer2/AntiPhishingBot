@@ -5,7 +5,7 @@ import os
 
 from phishing_checker import score_domain
 
-bot = telebot.TeleBot('5449435826:AAH1H9zA_pJIWAnab3MQcekz_Xy9bi6jE2A')
+bot = telebot.TeleBot('')
 
 PHISHTANK_URL = 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.tar.gz'
 PHISHTANK_FILE = 'ALL-phishing-domains.txt'
